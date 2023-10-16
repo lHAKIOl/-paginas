@@ -1,0 +1,12 @@
+.rojo{
+    height: 100%;
+    width: 30%;
+    background-color:red;
+    border-radius:25px;
+}
+.verde{
+    height: 90%;
+    width: 15%;
+    background-color:green;
+    border-radius:25px;
+}
